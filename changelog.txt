@@ -114,7 +114,7 @@ Fixed custom page slug not updating automatically when changing page title.
 2022 December 09 - Version 3.0.0
 
 New Features
-Fully rewritten Cloud2Go in React. This results in many improvements from previous version, including better performance, bundle size reduction by nearly 2x (with bigger reduction in future updates), better animations and many bugfixes.
+Fully rewritten UltiCloud in React. This results in many improvements from previous version, including better performance, bundle size reduction by nearly 2x (with bigger reduction in future updates), better animations and many bugfixes.
 Refreshed the design for most pages across the site.
 It's now possible to upload files directly from browser to s3 and s3 compatible services.
 Enhancements
@@ -227,8 +227,8 @@ API docs page will now link to account settings page correctly.
 2021 March 10 - Version 2.2.3
 
 New Features
-Compatibility with new Android and iOS mobile app for Cloud2Go.
-Implemented a fully featured, token based API. It can be used to integrate Cloud2Go into existing projects, native apps and more. 
+Compatibility with new Android and iOS mobile app for UltiCloud.
+Implemented a fully featured, token based API. It can be used to integrate UltiCloud into existing projects, native apps and more. 
 Added Manage API Access Tokens section in account settings page for creating or revoking API access tokens.
 Added functional API docs. They can be accessed at your-site.com/api-docs url, there's also a link in account settings page.
 Bug Fixes
@@ -253,7 +253,7 @@ When using S3 (or any s3 compatible storage method) files will now be downloaded
 Previewing a file in a folder will now allow navigating to other files in that folder via arrows.
 Multiple emails pasted into "manage people" dialog will now be parsed automatically.
 "More actions" menu for folder will now have upload file and folder actions on mobile.
-Updated Laravel to latest version. Cloud2Go now requires at least PHP 7.2.5 version to work properly.
+Updated Laravel to latest version. UltiCloud now requires at least PHP 7.2.5 version to work properly.
 Updated login, register, forgot password and reset password pages design.
 If some server error occurs a more descriptive message will now be shown if user is logged in as admin.
 All email templates will now have the same design.
@@ -293,7 +293,7 @@ Single tap on mobile will now either open a folder or show file preview.
 Set bedrive user email and display name on stripe, so subscriptions can be found more easily.
 Specific plans can now be hidden from upgrade and pricing pages.
 Proration amount on subscription changes to more expensive plan on same interval will now be charged immediately instead of next billing cycle on stripe to prevent abuse.
-Added validation to check whether x-accel or x-sendfile is setup on the server before enabling that setting in Cloud2Go.
+Added validation to check whether x-accel or x-sendfile is setup on the server before enabling that setting in UltiCloud.
 Added keybinds for "DELETE" and "ENTER" buttons when at least one file is selected in drive.
 Slugs will now be generated properly for cyrillic and chinese characters.
 Improved performance when downloading large files.
@@ -320,7 +320,7 @@ A number of other smaller fixes and improvements.
 New Features
 Added dark & light mode as well as multiple theme functionality.
 Data tables in admin area now have a number of built-in filters for easier data management.
-Added chunked uploading. This allows Cloud2Go to upload large files in smaller chunks for better upload reliability and avoid server file size limits.
+Added chunked uploading. This allows UltiCloud to upload large files in smaller chunks for better upload reliability and avoid server file size limits.
 Added resumable uploads functionality.
 Added support for XSendFile and XAcceleratedResponse for reducing server RAM and CPU usage.
 Email notification can now be sent to user when a file or folder is shared with them.
@@ -547,7 +547,7 @@ Folders and sub-folders can now have duplicate names.
 Many new settings for billing, localization, authentication, logging, cache and more in settings page.
 Many improvements to authentication, including password reset, account confirmation and more.
 Bug Fixes
-2.0.0 is a full re-write of Cloud2Go, it fixes and improves a lot of issues in all parts of the site.
+2.0.0 is a full re-write of UltiCloud, it fixes and improves a lot of issues in all parts of the site.
 
 -
 
@@ -599,7 +599,7 @@ Implemented proper infinite scroll for uploaded files in users dashboard.
 Space available for specific user can now be changed from admin area > users page.
 Number of files that should be loaded in users dashboard initially can now be specified in settings page.
 Site url can now be changed from settings page.
-Current Cloud2Go version can now be seen in admin area.
+Current UltiCloud version can now be seen in admin area.
 Fixed an issue where composer was not working properly.
 Fixed layout of edit user modal in admin area > users page.
 A number of other smaller bugfixes.
@@ -608,10 +608,10 @@ A number of other smaller bugfixes.
 
 2016 August 15 - Version 1.8
 
-Cloud2Go will now work on servers where PUT and DELETE requests are disabled.
+UltiCloud will now work on servers where PUT and DELETE requests are disabled.
 Fixed an issue with user password not being updateable from user dashboard.
 Fixed an issue where file with password was sometimes not shareable.
-Fixed an issue with Cloud2Go sometimes only using half the screen on phones.
+Fixed an issue with UltiCloud sometimes only using half the screen on phones.
 Fixed an issue with analytics page not working sometimes.
 Fixed an issue with multiple files download not working if using S3 for storage.
 
