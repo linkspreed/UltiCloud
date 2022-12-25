@@ -1,4 +1,7 @@
 ### 25.12.2022 (announcement UltiCloud)
+- The code is now ready for the launch of version 3.0.8 for **UltiCloud**.
+
+### 25.12.2022 (announcement UltiCloud)
 -  **UltiCloud** gets a big update today - we are going to launch v3.0.8. 😍
 
 ### 25.12.2022 (announcement UltiCloud)
