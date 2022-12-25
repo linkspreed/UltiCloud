@@ -1,4 +1,4 @@
-# <img align="left" alt="Cloud2Go" width="200px" src="https://cloud2go.tk/storage/branding_media/1bbfdadc-d669-4e30-9258-ce93465f14b4.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/))
+# <img align="left" alt="UltiCloud" width="200px" src="https://ulticloud.tk/storage/branding_media/6d3096fa-f9a6-42f4-9ea8-a05c628a24e7.png" draggable="false" /> UltiCloud ([Click to try 🚀](https://cloud2go.tk/))
 
 Cloud2Go ☁️🔴 - Enjoy 100 TB of free and secure Cloud Storage. 🚀
 
