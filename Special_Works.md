@@ -1,4 +1,8 @@
 ### 25.12.2022 (announcement UltiCloud)
+- Mails are working now on **UltiCloud** 📧
+- https://user-images.githubusercontent.com/102324985/209479479-4f23ed9c-a838-45a1-afd5-a76802f39bcc.png
+
+### 25.12.2022 (announcement UltiCloud)
 - Google Login is working now on **UltiCloud** ...
 
 ### 25.12.2022 (announcement UltiCloud)
