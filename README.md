@@ -1,9 +1,9 @@
 # <img align="left" alt="UltiCloud" width="200px" src="https://ulticloud.tk/storage/branding_media/6d3096fa-f9a6-42f4-9ea8-a05c628a24e7.png" draggable="false" /> UltiCloud ([Click to try 🚀](https://cloud2go.tk/))
 
-Cloud2Go ☁️🔴 - Enjoy 100 TB of free and secure Cloud Storage. 🚀
+UltiCloud - Set no more limits ∞ to your cloud! ☁️💜
 
-## **[Changelog ☁️](https://github.com/linkspreed/Cloud2Go/blob/main/changelog.txt)** **Check out the full Cloud2Go changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Cloud2Go/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Cloud2Go besides development**
+## **[Changelog ☁️](https://github.com/linkspreed/UltiCloud/blob/main/changelog.txt)** **Check out the full UltiCloud changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/UltiCloud/blob/main/Special_Works.md)** **Take a look at what changes we are doing to UltiCloud besides development**
 
 
 <div align="center">
@@ -13,14 +13,14 @@ Cloud2Go ☁️🔴 - Enjoy 100 TB of free and secure Cloud Storage. 🚀
 
 ## Features
 
- - **SaaS mode** – Use Cloud2Go for free and get 100 terabytes of free cloud storage on your account.
- - **High Performance** – Cloud2Go is lightweight and has lighting fast performance and page load time out of the box.
+ - **SaaS mode** – Use UltiCloud for free and get 100 terabytes of free cloud storage on your account.
+ - **High Performance** – UltiCloud is lightweight and has lighting fast performance and page load time out of the box.
  - **Sharing** – You can share files and folders with multiple users, allowing collaboration.
  - **Upload Status** – See status, progress, estimated time left and more for all current uploads.
  - **Shareable Links** – Create publicly shareable links for files and folders with optional expiration date, password and permissions.
- - **Translations** – Cloud2Go is fully translation ready and can be easily translated to any language.
- - **Responsive** – Cloud2Go is fully responsive and will work on desktop, mobile, tablet and other devices.
- - **Dark Mode** – Cloud2Go comes with pre-built light and dark themes. You can fully customize them or add new themes via appearance editor.
+ - **Translations** – UltiCloud is fully translation ready and can be easily translated to any language.
+ - **Responsive** – UltiCloud is fully responsive and will work on desktop, mobile, tablet and other devices.
+ - **Dark Mode** – UltiCloud comes with pre-built light and dark themes. You can fully customize them or add new themes via appearance editor.
  - **File Previews** – Preview multiple file types including audio, video, text, pdf, zip and images right in the browser without the need to download the file.
  - **Authentication** – Fully featured authentication system with social login (facebook, twitter and google), normal login, registration, password recovery, account settings and more.
  - **Grid and List views** – Both grid and list views are available and freely switchable by the user so they can select the one they prefer more.
@@ -37,7 +37,7 @@ Cloud2Go ☁️🔴 - Enjoy 100 TB of free and secure Cloud Storage. 🚀
 
 ## More
  
-Cloud2Go is **free**, **real-time** and with **unlimited** resources 
+UltiCloud is **free**, **real-time** and with **unlimited** resources 
 for users around the world.
 You get **200TB** free Cloud Storage!
 
@@ -49,19 +49,19 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Cloud2Go freely and use all features to an unlimited extent.
+ You can enjoy UltiCloud freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
 
-### Welcome to Cloud2Go
-<img align="center" alt="Cloud2Go" width="3000px" src="https://github.com/linkspreed/Cloud2Go/blob/main/screenshots/1.PNG" draggable="false" />
+### Welcome to UltiCloud
+<img align="center" alt="UltiCloud" width="3000px" src="https://github.com/linkspreed/UltiCloud/blob/main/screenshots/1.png" draggable="false" />
 
 ### Create your account
-<img align="center" alt="Cloud2Go" width="3000px" src="https://github.com/linkspreed/Cloud2Go/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="UltiCloud" width="3000px" src="https://github.com/linkspreed/UltiCloud/blob/main/screenshots/2.png" draggable="false" />
 
 ### Dashboard
-<img align="center" alt="Cloud2Go" width="3000px" src="https://github.com/linkspreed/Cloud2Go/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="UltiCloud" width="3000px" src="https://github.com/linkspreed/UltiCloud/blob/main/screenshots/3.png" draggable="false" />
 
 ### Settings
-<img align="center" alt="Cloud2Go" width="3000px" src="https://github.com/linkspreed/Cloud2Go/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="UltiCloud" width="3000px" src="https://github.com/linkspreed/UltiCloud/blob/main/screenshots/4.png" draggable="false" />
