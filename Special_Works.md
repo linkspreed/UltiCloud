@@ -1,4 +1,8 @@
 ### 25.12.2022 (announcement UltiCloud)
+- https://github.com/linkspreed/UltiCloud/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 25.12.2022 (announcement UltiCloud)
 - The launch of version 3.0.8 of **UltiCloud** was successful! 🥳
 - The new update is live now :)
 - https://ulticloud.tk 🔗
