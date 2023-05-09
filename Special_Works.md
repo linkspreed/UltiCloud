@@ -1,3 +1,6 @@
+### 09.05.2023 (announcement UltiCloud)
+- 🎉Exciting news!🎉 We're temporarily redirecting our Cloud UltiCloud to our new Cloud ShareNode until we come up with a plan for UltiCloud. Are you excited for this new development? Let us know in the comments! #cloudmigration #CloudShareNode #UltiCloud #techupdate 💻🚀👍
+
 ### 06.04.2023 (announcement UltiCloud)
 - 🌩️⚡ Power up your productivity with #Ulticloud v3.1.0! Our latest update features lightning-fast syncing and collaboration tools, making teamwork a breeze! 💪👨‍💼👩‍💼
 
