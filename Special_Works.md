@@ -1,3 +1,6 @@
+### 02.07.2023 (announcement Ulticloud)
+- 🌩️✨ Exciting news! 🌟⚡ We just added Ulticloud to our subdomain system! 🚀🔍🔮 Check it out 👉🔗 https://ulticloud.tk. Now, it redirects you seamlessly to our new hosting platform 👉🔗 https://ulticloud.linkspreed.com. Don't worry, everything remains unchanged 😄🚀 Have you tried it out yet? Any thoughts? Let us know! 😊👇 #UlticloudUpgrade #SeamlessRedirect
+
 ### 09.05.2023 (announcement UltiCloud)
 - 🎉Exciting news!🎉 We're temporarily redirecting our Cloud UltiCloud to our new Cloud ShareNode until we come up with a plan for UltiCloud. Are you excited for this new development? Let us know in the comments! #cloudmigration #CloudShareNode #UltiCloud #techupdate 💻🚀👍
 
