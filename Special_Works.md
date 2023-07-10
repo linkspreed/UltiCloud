@@ -1,3 +1,9 @@
+### 10.07.2023 (announcement [Clouds])
+- 🌩️📲 Ready to level up our cloud systems! We're kicking off the update to Version 3.1.1 today. 🚀 Excited to bring you enhanced features and improved performance! 🌟 Have you ever experienced a system update? Share your thoughts below! 👇 #CloudUpdate #TechTuesday
+
+### 10.07.2023 (announcement [Clouds])
+- 🔁 Exciting news! We have lifted the redirection from our cloud platforms to ShareNode. 🎉💻 Now you can enjoy uninterrupted access to all your favorite features. 🚀✨ Have you already explored ShareNode? Let us know your thoughts below! #CloudPlatform #ShareNode
+
 ### 02.07.2023 (announcement Ulticloud)
 - 🌩️✨ Exciting news! 🌟⚡ We just added Ulticloud to our subdomain system! 🚀🔍🔮 Check it out 👉🔗 https://ulticloud.tk. Now, it redirects you seamlessly to our new hosting platform 👉🔗 https://ulticloud.linkspreed.com. Don't worry, everything remains unchanged 😄🚀 Have you tried it out yet? Any thoughts? Let us know! 😊👇 #UlticloudUpgrade #SeamlessRedirect
 
