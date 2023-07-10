@@ -1,4 +1,4 @@
-# UltiCloud ([Click to try 🚀](https://ulticloud.tk/)) (v3.1.0)
+# UltiCloud ([Click to try 🚀](https://ulticloud.tk/)) (v3.1.1)
 
 UltiCloud - Set no more limits ∞ to your cloud! ☁️💜
 
